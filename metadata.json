@@ -1,0 +1,5 @@
+{
+  "name": "小小数学家 (Little Mathematician)",
+  "description": "一个专为中国小学一年级学生设计的趣味数学学习应用，涵盖20以内加减法、图形认知、人民币计算等核心考点，结合Gemini AI提供个性化辅导。",
+  "requestFramePermissions": []
+}
